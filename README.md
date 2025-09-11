@@ -6,7 +6,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
 
 <div align="left">
   <h2>My Stats</h2>
@@ -33,10 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-#
 
 <div align="left">
-  📫 Connect with me! <br><br>
+  📫<h2>Connect with me!</h2> <br><br>
 
   <a href="mailto:giovanabudri22@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -47,7 +45,6 @@
   </a>
 </div>
 
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gibudripuc/gibudripuc/output/github-contribution-grid-snake-dark.svg">
